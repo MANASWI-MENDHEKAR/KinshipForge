@@ -56,7 +56,7 @@ as ground truth for all 7 pairs.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/KinshipForge.git
+git clone https://github.com/MANASWI-MENDHEKAR/KinshipForge.git
 cd KinshipForge
 ```
 
@@ -80,6 +80,7 @@ Download these 5 files to `/tmp/ckpt/`:
 ### 4. Download Gene Pool
 Custom rebuilt gene pool (8.71 GB):  
 https://www.kaggle.com/datasets/manaswimendhekar/stylegene-balanced-pool
+Place at: `YOUR_DATASET/pool_50samples.pkl`
 
 Note: Due to data privacy and storage constraints, this Kaggle dataset is currently set to Private. Access can be granted to the evaluation committee upon request.
 
@@ -90,7 +91,6 @@ For access requests or technical inquiries, please reach out via:
 - **Email:** [manaswimendhekar@gmail.com]
 - **GitHub:** [@MANASWI-MENDHEKAR](https://github.com/MANASWI-MENDHEKAR)
 
-Place at: `YOUR_DATASET/pool_50samples.pkl`
 
 ### 5. Run the Gradio UI
 ```bash
