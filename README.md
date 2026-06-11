@@ -32,7 +32,7 @@ frozen DNA seed approach.
 | LERP Bucket Blending | Linearly interpolates FFHQ pool age buckets to create intermediate age genes for each output stage |
 | Gender-biased Layer Fusion | 70/30 father/mother weighting on StyleGAN2 layers 8-17 for male, 30/70 for female — replaces paper's fixed 50/50 |
 | Multi-seed Selection | Runs seeds [42, 123, 256], selects seed with maximum LPIPS age progression — improved mean LPIPS from 0.207 to 0.267 |
-| Gene Pool Rebuild | Rebuilt researchers' 27.8 GB inaccessible pool from FFHQ 70k — 56 keys, 100 samples/bucket, 8.11 GB |
+| Gene Pool Rebuild | Rebuilt researchers' 27.8 GB inaccessible pool from FFHQ 70k — 56 keys, 100 samples/bucket, 8.71 GB |
 
 ---
 
