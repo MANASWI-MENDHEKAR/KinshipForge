@@ -83,6 +83,8 @@ https://www.kaggle.com/datasets/manaswimendhekar/stylegene-balanced-pool
 
 Note: Due to data privacy and storage constraints, this Kaggle dataset is currently set to Private. Access can be granted to the evaluation committee upon request.
 
+Access Request: This dataset contains sensitive biometric-derived feature pools and is currently set to Private to comply with data privacy policies. Authorized researchers and evaluation committee members may request access by sending their Kaggle username to the project maintainer.
+
 Place at: `YOUR_DATASET/pool_50samples.pkl`
 
 ### 5. Run the Gradio UI
